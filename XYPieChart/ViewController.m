@@ -1,10 +1,3 @@
-//
-//  ViewController.m
-//  XYPieChart
-//
-//  Created by XY Feng on 2/24/12.
-//  Copyright (c) 2012 Xiaoyang Feng. All rights reserved.
-//
 
 #import "ViewController.h"
 #import <QuartzCore/QuartzCore.h>
